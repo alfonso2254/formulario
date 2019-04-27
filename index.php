@@ -11,7 +11,7 @@
     <h1>Formulario de Registro</h1>
     
     <form action="validar.php" method="post" class="form-register" onsubmit="return validar();">
-        <h2 class="form__titulo">Inicio de Sesion</h2>
+        <h2 class="form__titulo">Inicios de Sesion</h2>
         
         <div class="contenedor-inputs">
             <input type="text" id="usuario" name="usuario" placeholder="Usuario"  class="input-48" >
